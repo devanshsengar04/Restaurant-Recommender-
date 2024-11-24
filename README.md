@@ -5,3 +5,10 @@ Introduction
 3. By analyzing user data and trends, such systems ensure tailored, accurate recommendations, making dining decisions effortless and enjoyable.
 
 
+System Architecture
+Restaurant Data: Collects restaurant attributes, including cuisine, price range, location, ratings, and reviews.
+Data Preprocessing: Cleanses and normalizes input data, handling missing values and inconsistencies.
+Feature Extraction: Extracts key features from user profiles, restaurant attributes, and reviews (e.g., cuisine types, sentiment from text).
+Recommendation Interface: Displays suggested restaurants to users through a user-friendly app or web interface
+
+
