@@ -6,9 +6,9 @@ Introduction
 
 
 System Architecture
-Restaurant Data: Collects restaurant attributes, including cuisine, price range, location, ratings, and reviews.
-Data Preprocessing: Cleanses and normalizes input data, handling missing values and inconsistencies.
-Feature Extraction: Extracts key features from user profiles, restaurant attributes, and reviews (e.g., cuisine types, sentiment from text).
-Recommendation Interface: Displays suggested restaurants to users through a user-friendly app or web interface
+1. Restaurant Data: Collects restaurant attributes, including cuisine, price range, location, ratings, and reviews.
+2. Data Preprocessing: Cleanses and normalizes input data, handling missing values and inconsistencies.
+3. Feature Extraction: Extracts key features from user profiles, restaurant attributes, and reviews (e.g., cuisine types, sentiment from text).
+4. Recommendation Interface: Displays suggested restaurants to users through a user-friendly app or web interface
 
 
